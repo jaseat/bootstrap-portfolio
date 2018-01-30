@@ -44,6 +44,10 @@ p{
   text-decoration: underline;
 }
 
+.navbar-nav li{
+	color: #aaaaaa;
+}
+
 
 .navbar{
 	margin-bottom: 20px;
